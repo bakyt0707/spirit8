@@ -422,6 +422,7 @@ header{
 .footer-description{
     text-transform: uppercase;
     font-size: 12px;
+    padding-top: 10px;
 }
 .footer-description span{
     font-weight: 700;
