@@ -213,7 +213,7 @@ header{
     font-size: 16px;
     font-style: italic;
     text-align: center;
-    margin: 60px 0 90px;
+    margin: 70px 0 90px;
 }
 
 
@@ -365,4 +365,67 @@ header{
     text-transform: uppercase;
     font-weight: 600;
     font-size: 18px;
+}
+
+#contacts{
+    padding: 90px 0;
+}
+.login-form-box {
+    width: 48%;
+    display: inline-block;
+}
+.lg{
+    margin-right: 25px;
+}
+.login-form-input{
+    height: 42px;
+    width: 100%;
+    border: 1px solid #999999;
+    margin-bottom: 15px;
+}
+.login-form-input-area{
+    height: 163px;
+    width: 100%;
+    border: 1px solid #999999;
+    margin-bottom: 15px;
+}
+.login-form-button{
+    width: 165px;
+    height: 40px;
+    border: none;
+    color: #fff;
+    background: #fcac45;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    cursor: pointer;
+    transition: .4s;
+    float: right;
+}
+.login-form-button:hover{
+    background: rgba(252, 172, 69, 0.73);
+}
+.form-title {
+    color: #5d5d5d;
+}
+.form-title span{
+    color: red;
+}
+
+
+#footer{
+    background: #111;
+    padding: 40px 0;
+    color: #b2b2b2;
+}
+.footer-description{
+    text-transform: uppercase;
+    font-size: 12px;
+}
+.footer-description span{
+    font-weight: 700;
+}
+.footer-items{
+    padding-left: 90px;
 }
