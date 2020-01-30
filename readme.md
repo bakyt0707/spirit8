@@ -2,27 +2,28 @@
 * ## Bakyt Akylbekov  
 * ![GitHub Logo](/images/two.png)   
 * ###### Contact details
-  * ***Kyrgyzstan, Bishkek***
+  * ***Kyrgyzstan, Bishkek*** :mountain_snow: :mountain:
   * ~~+996704370747~~
   * _mr.akylbekovbakyt@mail.ru_
 * ###### Summary
- >My goal are finishing my education in university, **IT-run** and become a professional *front-end developer*.:dart:
- >>Then work in Bishkek.
+ >My goals:dart: are finishing my education in university, **IT-run** and become a professional *front-end developer*.:man_technologist:
+ >>Then work in Bishkek. :money_mouth_face:
  >>>Finally I want to live in Europa, America or Canada.:airplane:
 * ###### Skills
-- [x] HTML
-- [x] CSS
-- [x] Bootstrap
-- [x] BEM
-- [x] Git
-- [x] a lit bit Illustrator/Photoshop
-- [ ] JavaScript
+- [x] HTML :slightly_smiling_face:	
+- [x] CSS :wink:
+- [x] Bootstrap :smirk:
+- [x] BEM 	:thinking:
+- [x] Git :roll_eyes:
+- [x] a lit bit Illustrator/Photoshop 	:no_mouth:
+- [ ] JavaScript :grimacing: :cold_sweat:
+- [ ] React :neutral_face:
    * ###### Personal Qualities
-1. responsible duty
-1. sociability
-1. attentiveness
-1. desire to develop
-1. punctuality
+1. Responsible duty
+1. Sociability
+1. Attentiveness
+1. Desire to develop
+1. Punctuality
 * ###### Code examples
  
 
@@ -70,21 +71,27 @@
   * [GitHub__Spritit8](https://bakyt0707.github.io/spirit8/)
   * <https://github.com/bakyt0707/spirit8/tree/gh-pages>
   
+    Duration | Place
+    --------- | ----------------------------------
+    3 months | Seller in Germany, Stuttgart, in the park "Tripsdrill"
+    1 years | Waiter in the restaurant "Blonder Pub", Bishkek
+    3 months | Waiter in the restaurant "Kaynar Banquet Hall", Bishkek  
 * ###### Education
 
     Year | Institution
     --------- | ----------------------------------
-    2006-2017 | school-gymnasium No. 12 / Bishkek :kissing_heart:
-    2017-2021 | KSTU named after I. Razzakov / Kyrgyz-German Technical Institute :man_facepalming
+    2006-2017 | School-gymnasium No. 12 / Bishkek :kissing_heart:
+    2017-2021 | KSTU named after I. Razzakov / Kyrgyz-German Technical Institute :man_facepalming:
     2019-2020 | IT-Run academy :pray:
     
     Language | Level
     --------- | ----------------------------------
+    German | B1
     Kyrgyz | fluent
     Russian | fluent
-    German | B1
+    
 
-* ###### My english   
+* ###### My English   
   My English is not very good, but I can read and understand text. Also I am able to communicate with people at a basic level. Soon I want to resume learning English.
  
  
