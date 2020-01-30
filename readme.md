@@ -7,7 +7,7 @@
   * _mr.akylbekovbakyt@mail.ru_
 * ###### Summary
  >My goals:dart: are finishing my education in university, **IT-run** and become a professional *front-end developer*.:man_technologist:
- >>Then work in Bishkek. :money_mouth_face:
+ >>Then work in Bishkek. :moneybag:
  >>>Finally I want to live in Europa, America or Canada.:airplane:
 * ###### Skills
 - [x] HTML :slightly_smiling_face:	
