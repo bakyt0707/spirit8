@@ -1,4 +1,4 @@
-# My resume:
+# My resume0:
 * **Bakyt Akylbekov**
 * *mr.akylbekovbakyt@mail.ru*
 * _I want to finish my education in university and IT-run. Then I want to live abroad._
