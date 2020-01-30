@@ -1,5 +1,6 @@
 # My resume:
-* ## Bakyt Akylbekov  ![GitHub Logo](/images/two.png)   
+* ## Bakyt Akylbekov  
+* ![GitHub Logo](/images/two.png)   
 * ###### Contact details
   * ***Kyrgyzstan, Bishkek***
   * ~~+996704370747~~
