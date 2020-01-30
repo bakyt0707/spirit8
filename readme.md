@@ -3,7 +3,7 @@
 * ![GitHub Logo](/images/two.png)   
 * ###### Contact details
   * ***Kyrgyzstan, Bishkek*** :mountain_snow: :mountain:
-  * ~~+996704370747~~
+  * [~~+996704370747~~]()
   * _mr.akylbekovbakyt@mail.ru_
 * ###### Summary
  >My goals:dart: are finishing my education in university, **IT-run** and become a professional *front-end developer*.:man_technologist:

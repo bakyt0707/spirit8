@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="215996bf-6bbc-48f4-adc2-72c4b1853b9f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +60,7 @@
       <workItem from="1580304270626" duration="1741000" />
       <workItem from="1580404001859" duration="89000" />
       <workItem from="1580404188716" duration="1104000" />
-      <workItem from="1580407518552" duration="9481000" />
+      <workItem from="1580407518552" duration="9805000" />
     </task>
     <task id="LOCAL-00001" summary="add first version">
       <created>1580404406034</created>
@@ -98,7 +97,21 @@
       <option name="project" value="LOCAL" />
       <updated>1580418186048</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add sixth version">
+      <created>1580419342976</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1580419342976</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add seventh version">
+      <created>1580419536986</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1580419536986</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,21 +123,23 @@
     <MESSAGE value="add third version" />
     <MESSAGE value="add fourth version" />
     <MESSAGE value="add fifth version" />
-    <option name="LAST_COMMIT_MESSAGE" value="add fifth version" />
+    <MESSAGE value="add sixth version" />
+    <MESSAGE value="add seventh version" />
+    <option name="LAST_COMMIT_MESSAGE" value="add seventh version" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="308" y="0" width="749" height="601" key="CommitChangelistDialog2" timestamp="1580419342482">
+    <state x="308" y="0" width="749" height="601" key="CommitChangelistDialog2" timestamp="1580419536510">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" width="749" height="601" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1580419342482" />
+    <state x="308" y="0" width="749" height="601" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1580419536510" />
     <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1580415169315">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1580415169315" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1580419344441">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1580419537946">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1580419344441" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1580419537946" />
     <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1580404006234">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
