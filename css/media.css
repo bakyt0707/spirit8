@@ -103,6 +103,9 @@
         width: 100%;
     }
     .footer-items{
-        padding-left: 0;
+        padding-left: 14px;
+    }
+    .tab__button{
+        padding: 0 7px;
     }
 }
