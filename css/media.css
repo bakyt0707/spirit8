@@ -70,11 +70,39 @@
 
 }
 @media screen and (max-width: 576px) {
+    .hero-title{
+        margin-top: 100px;
+    }
+    .hero-description{
+        padding: 0 10px;
+    }
+    .general-title{
+        font-size: 30px;
+    }
+    .section-description{
+        padding: 0 10px;
+    }
+.clients-list{
+    margin-left: 23px;
+}
     .clients-container{
         width: 320px;
     }
     .clients-list-item{
         width: 100%;
         margin-bottom: 25px;
+    }
+    .overlay{
+        width: 90%;
+    }
+    .testimonials-description{
+        padding: 0 10px;
+        font-size: 14px;
+    }
+    .login-form-box{
+        width: 100%;
+    }
+    .footer-items{
+        padding-left: 0;
     }
 }
