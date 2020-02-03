@@ -41,13 +41,13 @@ header{
     left: 0;
     width: 100%;
     height: 2px;
-    background: #fff;
+    background: #fcac45;
     transform: scaleX(0);
     transition: .4s;
 }
 .menu-item:after{
     width: 50%;
-    background: #fcac45;
+    background: #5d5d5d;
 }
 .menu-item:hover:before,
 .menu-item:hover:after{
@@ -379,6 +379,10 @@ header{
     line-height: 1;
     padding: 0 14px;
     margin-bottom: 44px;
+
+}
+.tab__button:hover{
+    cursor: pointer;
 }
 .bn{
     border: none;
@@ -429,12 +433,14 @@ header{
     width: 100%;
     border: 1px solid #999999;
     margin-bottom: 15px;
+    padding: 0 15px;
 }
 .login-form-input-area{
     height: 163px;
     width: 100%;
     border: 1px solid #999999;
     margin-bottom: 15px;
+    padding: 0 15px;
 }
 .login-form-button{
     width: 165px;
